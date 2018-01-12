@@ -4,7 +4,7 @@
 
 void main(){
 
-    //Definindo Variáveis
+    //Definindo VariÃ¡veis
     int a;
     float b;
     char c;
